@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --thumb-image: url('./assets/slider-thumb.svg');
+  --primary: #fff;
+  --collateral-color: #1d9259;
+  --purple-border: 1px solid #201338;
+  --blue-pink-gradient: linear-gradient(90deg, #74d6fd 0%, #e01dee 100%);
+  --dark-gray: #393942;
+  --borrow-color: #f42222;
+  --primary-color: #0b0c10;
+  --secondary: #e7ecf0;
+  --brand: #74d6fd;
+  --pink: #e01dee;
+}

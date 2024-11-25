@@ -1,0 +1,13 @@
+.slide-container {
+    background-color: black;
+    width: 600px;
+    height: 150px;
+    border-radius: 25px;
+    color: white;
+    padding: 10px;
+}
+
+.slide-container .slide-headings {
+    display: flex;
+    justify-content: space-between;
+}
